@@ -3,6 +3,9 @@
     "MockUSD": {
       "address": "0x309222b7833d3d0a59a8ebf9c64a5790bf43e2aa",
       "startBlock": 11345907
+    },
+    "NFTMarketplaceAutomationLt": {
+      "address": "0xD55E9250959D8689819015e24761eCB3891126dc"
     }
   }
 }
